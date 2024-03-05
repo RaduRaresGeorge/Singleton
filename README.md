@@ -1,3 +1,3 @@
 # Singleton
 
-Implementado por Radu Rares George con información de refactoring.guru.
+Implementado por Radu Rares George con conocimientos adquiridos desde refactoring.guru.
